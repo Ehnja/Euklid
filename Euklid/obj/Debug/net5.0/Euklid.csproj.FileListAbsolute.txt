@@ -1,0 +1,16 @@
+C:\Users\hilme\source\repos\Euklid\Euklid\bin\Debug\net5.0\Euklid.exe
+C:\Users\hilme\source\repos\Euklid\Euklid\bin\Debug\net5.0\Euklid.deps.json
+C:\Users\hilme\source\repos\Euklid\Euklid\bin\Debug\net5.0\Euklid.runtimeconfig.json
+C:\Users\hilme\source\repos\Euklid\Euklid\bin\Debug\net5.0\Euklid.runtimeconfig.dev.json
+C:\Users\hilme\source\repos\Euklid\Euklid\bin\Debug\net5.0\Euklid.dll
+C:\Users\hilme\source\repos\Euklid\Euklid\bin\Debug\net5.0\ref\Euklid.dll
+C:\Users\hilme\source\repos\Euklid\Euklid\bin\Debug\net5.0\Euklid.pdb
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.csproj.AssemblyReference.cache
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.AssemblyInfoInputs.cache
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.AssemblyInfo.cs
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.csproj.CoreCompileInputs.cache
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.dll
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\ref\Euklid.dll
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.pdb
+C:\Users\hilme\source\repos\Euklid\Euklid\obj\Debug\net5.0\Euklid.genruntimeconfig.cache
